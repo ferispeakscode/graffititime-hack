@@ -1,0 +1,5 @@
+.wall {
+    background-image:"../images/wood.jpg";
+    position: absolute;
+    margin: auto;
+}
