@@ -1,11 +1,9 @@
-import react, { Component } from 'react';
+import React, { Component } from 'react';
 
 class Wall extends Component {
     render () {
         return (
-            <div>
-                <p>show wall here</p>
-            </div>
+            <div className="wall"></div>
         );
     };
 }
