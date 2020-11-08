@@ -1,5 +1,10 @@
 .wall {
-    background-image:"../images/wood.jpg";
+    background-image:url(../images/wood.jpg);
     position: absolute;
-    margin: auto;
+    margin: 0;
+    width: 80%;
+    height: 80%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
