@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/graffititime-hack/precache-manifest.4c05dee41b45b62c9109b6f40933eca0.js"
+  "/graffititime-hack/precache-manifest.1d9210669f360ef51e5ee6e93cc8e967.js"
 );
 
 self.addEventListener('message', (event) => {

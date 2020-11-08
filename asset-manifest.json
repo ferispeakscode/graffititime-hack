@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/graffititime-hack/static/css/main.75df9f48.chunk.css",
-    "main.js": "/graffititime-hack/static/js/main.629368e9.chunk.js",
-    "main.js.map": "/graffititime-hack/static/js/main.629368e9.chunk.js.map",
+    "main.css": "/graffititime-hack/static/css/main.10a80426.chunk.css",
+    "main.js": "/graffititime-hack/static/js/main.8068cd39.chunk.js",
+    "main.js.map": "/graffititime-hack/static/js/main.8068cd39.chunk.js.map",
     "runtime-main.js": "/graffititime-hack/static/js/runtime-main.c90c3c91.js",
     "runtime-main.js.map": "/graffititime-hack/static/js/runtime-main.c90c3c91.js.map",
-    "static/js/2.689d18d7.chunk.js": "/graffititime-hack/static/js/2.689d18d7.chunk.js",
-    "static/js/2.689d18d7.chunk.js.map": "/graffititime-hack/static/js/2.689d18d7.chunk.js.map",
+    "static/js/2.a1c62311.chunk.js": "/graffititime-hack/static/js/2.a1c62311.chunk.js",
+    "static/js/2.a1c62311.chunk.js.map": "/graffititime-hack/static/js/2.a1c62311.chunk.js.map",
     "index.html": "/graffititime-hack/index.html",
-    "precache-manifest.4c05dee41b45b62c9109b6f40933eca0.js": "/graffititime-hack/precache-manifest.4c05dee41b45b62c9109b6f40933eca0.js",
+    "precache-manifest.1d9210669f360ef51e5ee6e93cc8e967.js": "/graffititime-hack/precache-manifest.1d9210669f360ef51e5ee6e93cc8e967.js",
     "service-worker.js": "/graffititime-hack/service-worker.js",
-    "static/css/main.75df9f48.chunk.css.map": "/graffititime-hack/static/css/main.75df9f48.chunk.css.map",
-    "static/js/2.689d18d7.chunk.js.LICENSE.txt": "/graffititime-hack/static/js/2.689d18d7.chunk.js.LICENSE.txt",
-    "static/media/mintbean.png": "/graffititime-hack/static/media/mintbean.cf18b629.png"
+    "static/css/main.10a80426.chunk.css.map": "/graffititime-hack/static/css/main.10a80426.chunk.css.map",
+    "static/js/2.a1c62311.chunk.js.LICENSE.txt": "/graffititime-hack/static/js/2.a1c62311.chunk.js.LICENSE.txt",
+    "static/media/mintbean.png": "/graffititime-hack/static/media/mintbean.cf18b629.png",
+    "static/media/wall.css": "/graffititime-hack/static/media/wood.0adc2032.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.c90c3c91.js",
-    "static/js/2.689d18d7.chunk.js",
-    "static/css/main.75df9f48.chunk.css",
-    "static/js/main.629368e9.chunk.js"
+    "static/js/2.a1c62311.chunk.js",
+    "static/css/main.10a80426.chunk.css",
+    "static/js/main.8068cd39.chunk.js"
   ]
 }
